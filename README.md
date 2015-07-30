@@ -212,4 +212,4 @@ This project has a [storied legacy](https://github.com/desandro/imagesloaded/gra
 
 imagesLoaded is released under the [MIT License](http://desandro.mit-license.org/). Have at it.
 
-## Edit branch
+## Edit new branch
