@@ -1,4 +1,5 @@
 # imagesLoaded
+good luck
 
 <p class="tagline">JavaScript is all like "You images done yet or what?"</p>
 
